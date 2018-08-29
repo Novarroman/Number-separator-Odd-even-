@@ -1,4 +1,4 @@
-# odd-even-number-separator
+# Odd&even-number-separator
 
 Does exactly what it sais it does:
 Lets you input numbers until zero is entered, 
