@@ -1,3 +1,5 @@
+package foo;
+
 import java.util.*;
 
 public class Main {
